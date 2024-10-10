@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Keerthana R</h1>
 <h3 align="center">A passionate MERN AND MEAN stack developer.</h3>
 
@@ -21,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starplayevryr&show_icons=true&locale=en" alt="starplayevryr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starplayevryr&" alt="starplayevryr" /></p>
+
+[![An image of @starplayevryr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/starplayevryr)](https://holopin.io/@starplayevryr)
