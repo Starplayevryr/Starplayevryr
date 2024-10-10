@@ -5,10 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=starplayevryr" alt="starplayevryr" /></a> </p>
 
+- 📫 How to reach me **kirthiyamini826@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/starplayevryr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/starplayevryr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/keerthana-r-a95955294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/keerthana-r-a95955294/" height="30" width="40" /></a>
+<a href="https://dev.to/starplayevryr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="starplayevryr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/keerthana-r-a95955294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keerthana-r-a95955294" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,5 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starplayevryr&show_icons=true&locale=en" alt="starplayevryr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starplayevryr&" alt="starplayevryr" /></p>
+
 
 [![An image of @starplayevryr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/starplayevryr)](https://holopin.io/@starplayevryr)
