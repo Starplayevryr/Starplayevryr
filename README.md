@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keerthana R</h1>
-<h3 align="center">Aspiring software developer |
-  A passionate MERN AND MEAN stack developer.</h3>
+<!--<h3 align="center">Aspiring software developer |
+  A passionate MERN AND MEAN stack developer.</h3>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starplayevryr&label=Profile%20views&color=0e75b6&style=flat" alt="starplayevryr" /> </p>
 
